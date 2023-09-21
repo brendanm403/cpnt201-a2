@@ -2,8 +2,10 @@
 
 We will be ranking different Ice cream flavours.
 
-## Ranking Ice Cream Flavours
+## Task List
 
 - [x] Eat ice cream
 - [x] Discuss 
 - [x] Rate ice cream
+
+[ice cream flavours](https://parade.com/1359045/stephanieosmanski/ice-cream-flavors/)
