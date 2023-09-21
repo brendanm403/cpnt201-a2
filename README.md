@@ -10,4 +10,4 @@ We will be ranking different Ice cream flavours around the world.
 
 [ice cream flavours](https://parade.com/1359045/stephanieosmanski/ice-cream-flavors/)
 
-After careful deliberation we have decided that *vanilla* is **S tier**, *bubblegum* is **A tier** and *chocolate* is **B tier**. Coconut is **B tier**! 
+After careful deliberation we have decided that *vanilla* is **S tier**, *bubblegum* is **A tier** and *chocolate* is **B tier**. Coconut is **B tier** 
