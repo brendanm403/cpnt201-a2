@@ -2,6 +2,8 @@
 
 We will be ranking different Ice cream flavours.
 
+## Ranking Ice Cream Flavours
+
 - [x] Eat ice cream
 - [x] Discuss 
-- [ ] Rate ice cream
+- [x] Rate ice cream
