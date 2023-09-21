@@ -4,7 +4,7 @@ We will be ranking different Ice cream flavours.
 
 ## Task List
 
-- [x] Eat ice cream
+- [] Eat ice cream
 - [x] Discuss 
 - [x] Rate ice cream
 
